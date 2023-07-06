@@ -90,7 +90,7 @@ resources:
 - argocd/instances/lightwell-framework.yaml
 
 # ITXA
-# - argocd/instances/ibm-itxa-setup.yaml
+- argocd/instances/ibm-itxa-setup.yaml
 
 
 # Sterling Secure Proxy
